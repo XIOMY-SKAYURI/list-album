@@ -1,0 +1,30 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XIOMY-SKAYURI/list-album.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XIOMY-SKAYURI/list-album/issues"
+  },
+  "homepage": "https://github.com/XIOMY-SKAYURI/list-album#readme",
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^7.24.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.13.16",
+    "@babel/plugin-transform-modules-commonjs": "^7.13.8",
+    "serve": "^11.3.2",
+    "wavesurfer.js": "^4.6.0"
+  },
+  "description": ""
+}
